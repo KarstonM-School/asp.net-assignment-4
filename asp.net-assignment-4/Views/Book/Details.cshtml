@@ -1,0 +1,56 @@
+﻿@model Book
+@{
+    ViewData["title"] = "Book";
+}
+<style>
+    h2{
+        font-weight: normal;
+    }
+    table {
+        border-collapse: collapse;
+        width: auto;
+    }
+
+    th, td{
+        border: 1px solid black;
+        padding: 4px;
+        text-align: left;
+    }
+
+    td a {
+        margin-right: 8px;
+    }
+</style>
+
+<h1>Title</h1>
+<h2>@Model.Name</h2>
+<h1>Author</h1>
+<h2>@Model.Author</h2>
+<h1>Genre</h1>
+<h2>@Model.Genre</h2>
+<h1>Year Published</h1>
+<h2>@Model.YearPublished</h2>
+
+<h1>Borrowings</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Borrowing Id</th>
+            <th>Borrower</th>
+            <th>Is Returned?</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            @foreach (var borrowing in Model.Borrowings)
+            {
+                <td>@borrowing.Id</td>
+                <td>@borrowing.Reader.Name</td>
+                <td>@(borrowing.IsReturned ? "Yes" : "No")</td>
+            }
+        </tr>
+    </tbody>
+</table>
+
+
+<a asp-asp-controller="Book" asp-action="Index">Go Back</a>

@@ -1,0 +1,26 @@
+﻿@model Borrowing
+@{
+    ViewData["title"] = "Edit a Borrowing";
+}
+
+<h1>Edit Borrowing:</h1>
+<form method="post" asp-controller="Borrowing" asp-action="Edit" asp-route-id="@Model.Id">
+    <input type="hidden" asp-for="Id"/>
+
+    <label asp-for="BookId"></label>
+    <input type="number" asp-for="BookId" placeholder="Enter Book Id" />
+    <div>
+        <span asp-validation-for="BookId"></span>
+    </div>
+    <label asp-for="BorrowerId"></label>
+    <input type="number" asp-for="BorrowerId" placeholder="Enter Borrower Id" />
+    <div>
+        <span asp-validation-for="BorrowerId"></span>
+    </div>
+    <label asp-for="IsReturned"></label>
+    <input type="checkbox" asp-for="IsReturned" />
+    <div>
+        <span asp-validation-for="IsReturned"></span>
+    </div>
+    <button type="submit">Save</button>
+</form>

@@ -1,0 +1,76 @@
+﻿@model List<Borrowing>
+@{
+    ViewData["title"] = "All Borrowings";
+}
+
+<style>
+    table 
+    {
+        border-collapse: collapse;
+        width: auto;
+    }
+
+    /* Only apply border to the first two columns */
+    th:nth-child(1),
+    th:nth-child(2),
+    th:nth-child(3),
+    th:nth-child(4),
+    td:nth-child(1),
+    td:nth-child(2),
+    td:nth-child(3),
+    td:nth-child(4)
+    {
+        border: 1px solid black;
+    }
+
+    th, td 
+    {
+        padding: 4px;
+        text-align: left;
+    }
+
+    td a 
+    {
+        margin-right: 8px;
+    }
+
+    input[type="text"] {
+        width: 225px;
+        margin-right: 1rem;
+        margin-bottom: 1rem;
+    }
+</style>
+
+<h1>All Borrowings:</h1>
+@if(Model != null && Model.Count() > 0)
+{
+    <form asp-action="Index" method="get">
+        <input type="text" name="search" placeholder="Search (Book Title, Borrower Name)" />
+        <input type="submit" value="Search" />
+    </form>
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Book</th>
+                <th>Borrower</th>
+                <th>Is Returned?</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var borrowing in Model)
+            {
+                <tr>
+                    <td>@borrowing.Id</td>
+                    <td>@borrowing.Book.Name</td>
+                    <td>@borrowing.Reader.Name</td>
+                    <td>@borrowing.IsReturned</td>
+                    <td><a asp-controller="Borrowing" asp-action="Details" asp-route-id="@borrowing.Id">Details</a></td>
+                    <td><a asp-controller="Borrowing" asp-action="Edit" asp-route-id="@borrowing.Id">Edit</a></td>
+                    <td><a asp-controller="Borrowing" asp-action="Delete" asp-route-id="@borrowing.Id">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+<a asp-controller="Borrowing" asp-action="Add">Add</a>

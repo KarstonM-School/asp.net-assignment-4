@@ -1,0 +1,24 @@
+﻿@model Borrowing
+@{
+    ViewData["title"] = "Add a Borrowing";
+}
+
+<h1>New Borrowing:</h1>
+<form method="post" asp-controller="Borrowing" asp-action="Add">
+    <label asp-for="BookId"></label>
+    <input type="number" asp-for="BookId" placeholder="Enter Book Id" />
+    <div>
+        <span asp-validation-for="BookId"></span>
+    </div>
+    <label asp-for="BorrowerId"></label>
+    <input type="number" asp-for="BorrowerId" placeholder="Enter Borrower Id" />
+    <div>
+        <span asp-validation-for="BorrowerId"></span>
+    </div>
+    <label asp-for="IsReturned"></label>
+    <input type="checkbox" asp-for="IsReturned" />
+    <div>
+        <span asp-validation-for="IsReturned"></span>
+    </div>
+    <button type="submit">Add</button>
+</form>

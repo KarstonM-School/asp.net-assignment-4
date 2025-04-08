@@ -1,0 +1,31 @@
+﻿@model Book
+@{
+    ViewData["title"] = "Edit a Book";
+}
+
+<h1>Edit Book:</h1>
+<form method="post" asp-controller="Book" asp-action="Edit" asp-route-id="@Model.Id">
+    <input type="hidden" asp-for="Id"/>
+
+    <label asp-for="Name"></label>
+    <input type="text" asp-for="Name" placeholder="Enter Title" />
+    <div>
+        <span asp-validation-for="Name"></span>
+    </div>
+    <label asp-for="Author"></label>
+    <input type="text" asp-for="Author" placeholder="Enter Author" />
+    <div>
+        <span asp-validation-for="Author"></span>
+    </div>
+    <label asp-for="Genre"></label>
+    <input type="text" asp-for="Genre" placeholder="Enter Genre" />
+    <div>
+        <span asp-validation-for="Genre"></span>
+    </div>
+    <label asp-for="YearPublished"></label>
+    <input type="number" asp-for="YearPublished" placeholder="Enter Publish Year" />
+    <div>
+        <span asp-validation-for="YearPublished"></span>
+    </div>
+    <button type="submit">Save</button>
+</form>
