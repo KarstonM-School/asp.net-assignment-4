@@ -41,14 +41,16 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
+
             @foreach (var borrowing in Model.Borrowings)
             {
+            <tr>
                 <td>@borrowing.Id</td>
                 <td>@borrowing.Reader.Name</td>
                 <td>@(borrowing.IsReturned ? "Yes" : "No")</td>
+            </tr>
             }
-        </tr>
+
     </tbody>
 </table>
 

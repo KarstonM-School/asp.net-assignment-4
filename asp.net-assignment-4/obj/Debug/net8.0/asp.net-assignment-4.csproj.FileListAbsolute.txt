@@ -167,3 +167,4 @@ C:\School\Asp .Net\Assignments\Assignment 4\asp.net-assignment-4\asp.net-assignm
 C:\School\Asp .Net\Assignments\Assignment 4\asp.net-assignment-4\asp.net-assignment-4\obj\Debug\net8.0\ref\asp.net-assignment-4.dll
 C:\School\Asp .Net\Assignments\Assignment 4\asp.net-assignment-4\asp.net-assignment-4\obj\Debug\net8.0\asp.net-assignment-4.RazorAssemblyInfo.cache
 C:\School\Asp .Net\Assignments\Assignment 4\asp.net-assignment-4\asp.net-assignment-4\obj\Debug\net8.0\asp.net-assignment-4.RazorAssemblyInfo.cs
+C:\School\Asp .Net\Assignments\Assignment 4\asp.net-assignment-4\asp.net-assignment-4\obj\Debug\net8.0\asp.net-assignment-4.sourcelink.json

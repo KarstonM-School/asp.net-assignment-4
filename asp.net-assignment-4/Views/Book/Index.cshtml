@@ -39,12 +39,13 @@
 </style>
 
 <h1>All Books:</h1>
+<form asp-action="Index" method="get">
+    <input type="text" name="search" placeholder="Search (Name, Author, Genre)" />
+    <input type="submit" value="Search" />
+</form>
 @if(Model != null && Model.Count() > 0)
 {
-    <form asp-action="Index" method="get">
-        <input type="text" name="search" placeholder="Search (Name, Author, Genre)" />
-        <input type="submit" value="Search" />
-    </form>
+
     <table>
         <thead>
             <tr>

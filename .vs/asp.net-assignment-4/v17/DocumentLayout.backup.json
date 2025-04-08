@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|c:\\school\\asp .net\\assignments\\assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|solutionrelative:asp.net-assignment-4\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|c:\\school\\asp .net\\assignments\\assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\views\\reader\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|solutionrelative:asp.net-assignment-4\\views\\reader\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|c:\\school\\asp .net\\assignments\\assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\views\\reader\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|solutionrelative:asp.net-assignment-4\\views\\reader\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|c:\\school\\asp .net\\assignments\\assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\views\\borrowing\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|solutionrelative:asp.net-assignment-4\\views\\borrowing\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|c:\\school\\asp .net\\assignments\\assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\views\\borrowing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|solutionrelative:asp.net-assignment-4\\views\\borrowing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|c:\\school\\asp .net\\assignments\\assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|solutionrelative:asp.net-assignment-4\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|c:\\school\\asp .net\\assignments\\assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|solutionrelative:asp.net-assignment-4\\models\\borrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|c:\\school\\asp .net\\assignments\\assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04308C7E-A3A6-40C7-B9D1-DFDF83A74891}|asp.net-assignment-4\\asp.net-assignment-4.csproj|solutionrelative:asp.net-assignment-4\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,28 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Reader\\Index.cshtml",
-              "RelativeDocumentMoniker": "asp.net-assignment-4\\Views\\Reader\\Index.cshtml",
-              "ToolTip": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Reader\\Index.cshtml",
-              "RelativeToolTip": "asp.net-assignment-4\\Views\\Reader\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "asp.net-assignment-4\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "asp.net-assignment-4\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T22:32:04.46Z",
+              "WhenOpened": "2025-04-08T23:10:36.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Reader\\Details.cshtml",
+              "RelativeDocumentMoniker": "asp.net-assignment-4\\Views\\Reader\\Details.cshtml",
+              "ToolTip": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Reader\\Details.cshtml",
+              "RelativeToolTip": "asp.net-assignment-4\\Views\\Reader\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T23:10:06.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Borrowing\\Index.cshtml",
               "RelativeDocumentMoniker": "asp.net-assignment-4\\Views\\Borrowing\\Index.cshtml",
               "ToolTip": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Borrowing\\Index.cshtml",
               "RelativeToolTip": "asp.net-assignment-4\\Views\\Borrowing\\Index.cshtml",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-08T22:31:49.764Z",
+              "WhenOpened": "2025-04-08T23:05:01.506Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "asp.net-assignment-4\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "asp.net-assignment-4\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T23:04:54.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Reader\\Index.cshtml",
+              "RelativeDocumentMoniker": "asp.net-assignment-4\\Views\\Reader\\Index.cshtml",
+              "ToolTip": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Reader\\Index.cshtml",
+              "RelativeToolTip": "asp.net-assignment-4\\Views\\Reader\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T22:49:41.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Borrowing\\Details.cshtml",
+              "RelativeDocumentMoniker": "asp.net-assignment-4\\Views\\Borrowing\\Details.cshtml",
+              "ToolTip": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\Borrowing\\Details.cshtml",
+              "RelativeToolTip": "asp.net-assignment-4\\Views\\Borrowing\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T22:42:46.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Borrowing.cs",
+              "DocumentMoniker": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Models\\Borrowing.cs",
+              "RelativeDocumentMoniker": "asp.net-assignment-4\\Models\\Borrowing.cs",
+              "ToolTip": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Models\\Borrowing.cs",
+              "RelativeToolTip": "asp.net-assignment-4\\Models\\Borrowing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:41:21.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "asp.net-assignment-4\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\School\\Asp .Net\\Assignments\\Assignment 4\\asp.net-assignment-4\\asp.net-assignment-4\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "asp.net-assignment-4\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T22:35:53.201Z"
             }
           ]
         }
